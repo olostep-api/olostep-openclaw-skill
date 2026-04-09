@@ -1,7 +1,7 @@
 ---
 name: olostep
 description: Scrape webpages, search Google, crawl sites, batch-scrape up to 10k URLs, map site structure, and get AI-powered answers with citations using the Olostep Web Data API. Use when your task needs live web content — research, documentation ingestion, competitor analysis, data extraction, error debugging, or any work that requires real-time information from the internet. Free tier: 500 requests/month at olostep.com.
-version: 1.0.2
+version: 1.0.3
 metadata: {"openclaw": {"homepage": "https://olostep.com", "requires": {"env": ["OLOSTEP_API_KEY"]}, "primaryEnv": "OLOSTEP_API_KEY"}}
 ---
 
